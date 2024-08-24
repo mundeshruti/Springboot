@@ -1,0 +1,23 @@
+springboot Annotation
+The @SpringBootApplication annotation is a convenience annotation that enables auto-configuration, component scanning, and other
+features of the Spring Boot framework. It is typically used on the main application class.
+
+http methods
+HTTP methods are used to specify the action to be performed on a resource. The most common HTTP methods
+are:
+- GET: Retrieve a resource
+- POST: Create a new resource
+- PUT: Update an existing resource
+- DELETE: Delete a resource
+- PATCH: Partially update an existing resource
+- HEAD: Retrieve metadata about a resource
+- OPTIONS: Retrieve information about the supported HTTP methods for a resource
+- CONNECT: Establish a tunnel to the server
+- TRACE: Echo back the request
+- PATCH: Partially update an existing resource
+- LINK: Create a new link between resources
+- UNLINK: Remove a link between resources
+- PURGE: Remove a resource and its associated metadata
+- LOCK: Acquire a lock on a resource
+- UNLOCK: Release a lock on a resource
+- MKCOL: Create a new collection (directory)
